@@ -20,8 +20,8 @@ Welcome to my GitHub profile! I'm passionate about software development, open so
 ![AssSam7's GitHub stats](https://github-readme-stats.vercel.app/api?username=AssSam7&show_icons=true&theme=radical)
 
 ## 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)]([Your LinkedIn URL](https://www.linkedin.com/in/malsaslam97/))
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter&labelColor=blue)]([Your Twitter URL](https://x.com/malsaslam97))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)]([Your LinkedIn URL](https://www.linkedin.com/in/malsaslam97/)) <br/>
+[![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter&labelColor=blue)]([Your Twitter URL](https://x.com/malsaslam97)) <br/>
 [![Email](https://img.shields.io/badge/Email-blue?style=flat&logo=gmail&labelColor=blue)](mailto:mohammadaslamparvez7@gmail.com)
 
 
